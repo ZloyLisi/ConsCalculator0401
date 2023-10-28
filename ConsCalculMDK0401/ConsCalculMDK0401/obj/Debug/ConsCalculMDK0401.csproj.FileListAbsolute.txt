@@ -1,0 +1,8 @@
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\bin\Debug\ConsCalculMDK0401.exe.config
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\bin\Debug\ConsCalculMDK0401.exe
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\bin\Debug\ConsCalculMDK0401.pdb
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\obj\Debug\ConsCalculMDK0401.csproj.AssemblyReference.cache
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\obj\Debug\ConsCalculMDK0401.csproj.SuggestedBindingRedirects.cache
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\obj\Debug\ConsCalculMDK0401.csproj.CoreCompileInputs.cache
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\obj\Debug\ConsCalculMDK0401.exe
+C:\моё2\Visual Studia proekt\ConsCalculMDK0401\ConsCalculMDK0401\obj\Debug\ConsCalculMDK0401.pdb
